@@ -1,0 +1,51 @@
+{
+  "format_version": 2,
+  "metadata": {
+    "authors": [
+      "grimza_src"
+    ]
+  },
+  "header": {
+    "name": "§bChunk Loader",
+    "description": "§aPack by grimza_src§r",
+    "min_engine_version": [
+      1,
+      19,
+      50
+    ],
+    "uuid": "bc4f4c79-c776-41dd-85da-88ba8dddd9cb",
+    "version": [
+      1,
+      2,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "bd8ec281-c91b-4494-bb99-f40350f81d20",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "32230271-7446-4f5a-a40d-b09d2ae666ad",
+      "entry": "scripts/main.js",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "beta"
+    }
+  ]
+}
