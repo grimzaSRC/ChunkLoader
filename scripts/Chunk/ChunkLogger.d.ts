@@ -2,7 +2,7 @@
  * ChunkLogger
  * 
  * A logger class for ChunkLoader that manages console output
- * @author gameza_src
+ * @author grimza_src
  * @version 1.0.0
  */
 
