@@ -2,12 +2,12 @@
  * ChunkLoader 
  * 
  * A Script for Minecraft Bedrock that manages chunk loading and unloading.
- * @author grimza_zrc
+ * @author developer6087
  * @version 1.0.0
  * @license MIT
  * 
  * Discord: grimza_zrc
- * GitHub: https://github.com/grimzaZRC
+ * GitHub: https://github.com/developer6087
  */
 import { IChunkManager } from "./Interfaces/IChunkManager";
 import { Dimension, world } from "@minecraft/server";
