@@ -6,7 +6,7 @@
  * @version 1.0.0
  * @license MIT
  * 
- * Discord: grimza_zrc
+ * Discord: developer6087
  * GitHub: https://github.com/developer6087
  */
 import { IChunkManager } from "./Interfaces/IChunkManager";
