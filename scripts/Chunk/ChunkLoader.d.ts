@@ -1,13 +1,13 @@
 /**
  * ChunkLoader 
  * 
- * A Script for Minecraft Bedrock Edition that manages chunk loading and unloading.
- * @author grimza_zrc
+ * A Script for Minecraft Bedrock that manages chunk loading and unloading.
+ * @author developer6087
  * @version 1.0.0
  * @license MIT
  * 
- * Discord: grimza_zrc
- * GitHub: https://github.com/grimzaZRC
+ * Discord: developer6087
+ * GitHub: https://github.com/developer6087
  */
 import {
     Dimension,
